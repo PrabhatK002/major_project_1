@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/major_project_1/static/css/main.d7da34c1.css",
+    "main.js": "/major_project_1/static/js/main.2aba8901.js",
+    "static/js/496.857b77e1.chunk.js": "/major_project_1/static/js/496.857b77e1.chunk.js",
+    "static/media/video.mp4": "/major_project_1/static/media/video.79f8e0d9b266970173a4.mp4",
+    "static/media/mri.png": "/major_project_1/static/media/mri.1b7fc579e467220c0798.png",
+    "static/media/pathology_test.png": "/major_project_1/static/media/pathology_test.c55cac8e9c0a9181db90.png",
+    "static/media/svg-1.svg": "/major_project_1/static/media/svg-1.1a93cc6e8d210baa264740c549e28480.svg",
+    "static/media/svg-2.png": "/major_project_1/static/media/svg-2.a9f606894ff483733446.png",
+    "static/media/card_image.jpg": "/major_project_1/static/media/card_image.f15d77b5c9bdcdd9a272.jpg",
+    "static/media/x_ray.png": "/major_project_1/static/media/x_ray.bcc1bada9030bed5b3be.png",
+    "static/media/ct_scan.png": "/major_project_1/static/media/ct_scan.e42db3ce4af6eebac75e.png",
+    "static/media/item_top_icon.png": "/major_project_1/static/media/item_top_icon.c6f8494314bbfd11e822.png",
+    "static/media/add_icon.png": "/major_project_1/static/media/add_icon.815686cfafce2f678609.png",
+    "static/media/ultrasound.png": "/major_project_1/static/media/ultrasound.365388f27248fcc2f7cd.png",
+    "static/media/biopsy.png": "/major_project_1/static/media/biopsy.f5dfdf7560b1d83e1b7e.png",
+    "static/media/svg-3.jpg": "/major_project_1/static/media/svg-3.e81554329f28b201839e.jpg",
+    "static/media/others.png": "/major_project_1/static/media/others.c2025ec6a574ba272e95.png",
+    "static/media/urine_test.png": "/major_project_1/static/media/urine_test.8ea220cc2e53c7fcb041.png",
+    "static/media/blood_test.png": "/major_project_1/static/media/blood_test.48459dbe14cd904fd6fa.png",
+    "index.html": "/major_project_1/index.html",
+    "main.d7da34c1.css.map": "/major_project_1/static/css/main.d7da34c1.css.map",
+    "main.2aba8901.js.map": "/major_project_1/static/js/main.2aba8901.js.map",
+    "496.857b77e1.chunk.js.map": "/major_project_1/static/js/496.857b77e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da34c1.css",
+    "static/js/main.2aba8901.js"
+  ]
+}
