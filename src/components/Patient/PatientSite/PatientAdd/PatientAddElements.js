@@ -54,9 +54,8 @@ export const PatientAddItem = styled.div`
   transition: all 0.2s ease-in-out;
 
   ${'' /* background: #3b3b3b; */}
-background-color: #3b3b3b;
+  background-color: #3b3b3b;
 background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
-
 
   &:hover {
     transform: scale(1.01);
@@ -78,6 +77,7 @@ export const PatientAddItemTop = styled.div`
 export const PatientAddItemTopIcon = styled.img`
   width: 35px;
   height: 35px;
+  opacity: 0.8;
 `;
 
 export const PatientAddItemTopTitle = styled.text`
@@ -87,6 +87,7 @@ export const PatientAddItemTopTitle = styled.text`
   margin-left: 20px;
   text-align: left;
   transition: all 0.6s ease-in-out;
+  opacity: 0.9;
 
   &:hover {
     transition: all 0.6s ease-in-out;
@@ -136,7 +137,7 @@ export const PatientAddItemBottomLink = styled(Link)`
 export const PatientAddItemBottomIcon = styled.img`
   width: 100%;
   height: 100%;
-  opacity: 0.9;
+  opacity: 0.8;
 
   transition: all 0.6s ease-in-out;
 
