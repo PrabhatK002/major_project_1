@@ -54,9 +54,9 @@ export const PatientAddItem = styled.div`
   transition: all 0.2s ease-in-out;
 
   ${'' /* background: #3b3b3b; */}
-  background-color: #e3e0f3;
-background-image: url("https://www.transparenttextures.com/patterns/shattered-dark.png");
-/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+background-color: #3b3b3b;
+background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
+
 
   &:hover {
     transform: scale(1.01);
